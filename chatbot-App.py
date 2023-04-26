@@ -2,7 +2,7 @@ import openai
 import streamlit as st
 
 # Set the OpenAI API key
-openai.api_key = "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"
+#openai.api_key = "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"
 
 # Define the Streamlit app
 # Define the title
